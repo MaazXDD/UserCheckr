@@ -21,7 +21,7 @@ Installation:
 ### Step 1: Clone the Repository
 To get the latest version of PythonousFS, clone the GitHub repository to your local machine:
 ```bash
-git clone https://github.com/MaazXDD/PythonousFS.git
+git clone https://github.com/MaazXDD/UserCheckr
 ```
 ### Step 2: Install dependencies:
 ```bash
