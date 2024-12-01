@@ -24,11 +24,10 @@ To get the latest version of PythonousFS, clone the GitHub repository to your lo
 git clone https://github.com/MaazXDD/PythonousFS.git
 ```
 ### Step 2: Install dependencies:
-```pip install -r requirements.txt```
-### Step 3: Install Dependencies
-PythonousFS uses a few external libraries. To install all the necessary dependencies, run:
 ```bash
 pip install -r requirements.txt
 ```
 ### Step 4: Run The Tool :
-``` Python main.py ```
+```bash
+Python main.py
+```
